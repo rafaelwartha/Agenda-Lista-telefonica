@@ -13,5 +13,10 @@ CREATE TABLE lista_telefonica (
 Depois adicione os contatos teste com o seguinte código: 
 
 INSERT INTO lista_telefonica (nome, telefone, email) VALUES ('João', '123456789', 'joao@email.com');
+INSERT INTO lista_telefonica (nome, telefone, email) VALUES ('Maria', '987654321', 'maria@email.com');
+INSERT INTO lista_telefonica (nome, telefone, email) VALUES ('Pedro', '456123789', 'pedro@email.com');
+INSERT INTO lista_telefonica (nome, telefone, email) VALUES ('Ana', '789456123', 'ana@email.com');
+INSERT INTO lista_telefonica (nome, telefone, email) VALUES ('Lucas', '321654987', 'lucas@email.com');
+
 
 
