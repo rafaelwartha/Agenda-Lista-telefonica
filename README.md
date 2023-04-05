@@ -20,3 +20,12 @@ INSERT INTO lista_telefonica (nome, telefone, email) VALUES ('Lucas', '321654987
 
 
 
+Lembre-se de editar o código da conexão do banco de dados com seu código ex:
+
+$servername = "localhost";
+$username = "root"; (esse e o usuario padrão do XAMPP)
+$password = "";  (a senha padrão e assim mesmo sem senha)   
+$dbname = "db_agenda"; (lembre-se de criar o banco de dados com o nome db_agenda)
+
+
+
